@@ -77,7 +77,7 @@
 | **Telegram Bot API** | Уведомления и чаты |
 | **Supabase** | Хранение данных |
 | **OpenAI / LLM** | AI-интеграции |
-| **Deepgram API** | Speak To Text (STT) |
+| **Deepgram API** | Speech To Text (STT) |
 | **REST API** | Внешние сервисы |
 
 ---
