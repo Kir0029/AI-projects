@@ -31,7 +31,7 @@
 
 **Статус:** 🔒 Commercial (продается)
 
-![Crypto Bot1](screenshots/crypto-bot-1.png)
+![Crypto Bot1](crypto-bot-1.png)
 ![Crypto Bot2](screenshots/crypto-bot-2.png)
 ![Crypto Bot3](screenshots/crypto-bot-3.png)
 
