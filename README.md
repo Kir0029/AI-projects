@@ -1,6 +1,6 @@
 # 🤖 AI Projects by Kirill Reiki
 
-**AI-разработчик × Психолог × n8n Automation**
+**AI-Engineer × Психолог × n8n Automation**
 📍 Анапа | Telegram: [@kir029](https://t.me/kir029)
 
 ---
