@@ -31,23 +31,26 @@
 
 **Статус:** 🔒 Commercial (продается)
 
-![Crypto Bot](screenshots/crypto-bot-1.png)
+![Crypto Bot](screenshots/Signal.png)
+![Crypto Bot](screenshots/Signals.png)
+![Crypto Bot](screenshots/Scan.png)
 
 ---
 
 ### 2. 📰 News Bot
-**Задача:** Автоматическая публикация новостей в Telegram-канал
+**Задача:** Автоматическая публикация новостей в Telegram
 
 **Что делает:**
 - Собирает новости из RSS-лент (Tavily) и API
 - Фильтрует по ключевым словам
 - Форматирует и публикует посты
+- Ежедневная рассылка наиболее важных новостей в 08:01 утра
 
 **Технологии:** n8n, RSS Parser/Tavily, Telegram Bot API
 
-**Статус:** ✅ Готов к использованию
+**Статус:** ✅ Работает ежедневно
 
-![News Bot](screenshots/news-bot-1.png)
+![News Bot](screenshots/FlowNews.png)
 
 ---
 
@@ -63,9 +66,10 @@
 
 **Технологии:** n8n, OpenAI API, Supabase, Deepgram API, Telegram Bot API
 
-**Статус:** ✅ Работает
+**Статус:** ✅ Работает постоянно
 
-![English AI](screenshots/english-ai-1.png)
+![English AI](screenshots/Eng_assist(1).png)
+![English AI](screenshots/Eng_assist(2).png)
 
 ---
 
