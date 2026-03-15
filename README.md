@@ -45,12 +45,14 @@
 - Фильтрует по ключевым словам
 - Форматирует и публикует посты
 - Ежедневная рассылка наиболее важных новостей в 08:01 утра
+- Кнопка обновления сводки (refresh button)
 
 **Технологии:** n8n, RSS Parser/Tavily, Telegram Bot API
 
 **Статус:** ✅ Работает ежедневно
 
 ![News Bot](screenshots/news-bot-1.png)
+![News Bot](screenshots/news-bot-2.png)
 
 ---
 
