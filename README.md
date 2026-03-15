@@ -31,9 +31,9 @@
 
 **Статус:** 🔒 Commercial (продается)
 
-![Crypto Bot](screenshots/Signal.png)
-![Crypto Bot](screenshots/Signals.png)
-![Crypto Bot](screenshots/Scan.png)
+![Crypto Bot1](screenshots/Signal.png)
+![Crypto Bot2](screenshots/Signals.png)
+![Crypto Bot3](screenshots/Scan.png)
 
 ---
 
@@ -68,8 +68,8 @@
 
 **Статус:** ✅ Работает постоянно
 
-![English AI](screenshots/Eng_assist(1).png)
-![English AI](screenshots/Eng_assist(2).png)
+![English AI1](screenshots/Eng_assist(1).png)
+![English AI2](screenshots/Eng_assist(2).png)
 
 ---
 
