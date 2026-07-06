@@ -93,6 +93,31 @@ AI Security Engineer с 5-летним бэкграундом в **Threat Intell
 ---
 
 ## 📁 Проекты
+### 🛡️ LLM Red Team Scanner — Automated LLM Vulnerability Testing
+**Stack:** Python 3.11, Typer, Rich, Pydantic, asyncio, OpenAI SDK, pytest
+
+Open-source CLI-инструмент для автоматического тестирования больших языковых моделей на уязвимости. Реализует methodology Red Teaming с поддержкой OWASP Top 10 for LLM Applications.
+
+**Результат:**
+- **62 attack patterns** across 6 categories (Jailbreak, Prompt Injection, Data Leakage, Encoding, Multilingual, Tool Abuse)
+- **Multi-turn testing:** Crescendo, Adaptive, Iterative стратегии с stateful sessions
+- **Batch scanning:** тестирование нескольких моделей параллельно
+- **Двойная система оценки:** Heuristic (regex, offline) + LLM-as-Judge (точный)
+- **SARIF 2.1.0 export:** интеграция с GitHub Security, Snyk, SonarQube
+- **Historical tracking:** анализ трендов уязвимостей
+- **184 автотеста**, coverage ≥80%, mypy strict
+
+**🔐 Security considerations:**
+- API keys только через `.env` (не в коде)
+- Rate limiting для защиты от API abuse
+- Изоляция тестовых сред (не тестирует production без разрешения)
+- Audit logging всех сканирований
+- Custom patterns через JSON с Pydantic-валидацией
+
+[🔗 GitHub](https://github.com/Kir0029/llm-red-team-scanner) | [📖 Documentation](https://github.com/Kir0029/llm-red-team-scanner/blob/main/README.md)
+
+---
+
 ### 📱 BioFlow — Биохакинг-трекер (Flutter, 2026)
 **[github.com/Kir0029/BioFlow](https://github.com/Kir0029/BioFlow)** | 4 продакшн-релиза, 130 автотестов
 
